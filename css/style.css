@@ -1,0 +1,49 @@
+
+body{
+  font-family: 20px, Arial, sans-serif; 
+}
+
+.navbar
+{
+  background-color: green;
+}
+
+.quem-somos
+{
+  background-color:blue;
+  color: white;
+}
+
+.parceiros
+{
+  background-color: rgb(178, 178, 207);
+  color: red;
+
+}
+
+.margin
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bg-footer
+{
+  background-color: black;
+  color: white;
+
+}
+
+p
+{
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: darkred;
+}
+
+h1
+{
+  
+  color: red;
+}
